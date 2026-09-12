@@ -35,7 +35,7 @@ Căci intelectul uman aparține, ca și intreaga lui ființă aceleiași lumi ș
 
 De aceea se spune că anumite gânduri **sunt gravate în marmură**.
 
-Gândirea, cuvintele, scrierile și marmura sunt, prin urmare, legate în universul nostru.
+Gândirea, cuvintele, scrierile, marmura, sunt prin urmare, legate în universul nostru.
 
 Numerele, algebra și geometria se supun, la rândul lor, acelorași legi ale universului.
 
@@ -49,7 +49,9 @@ Cunoașterea are acest specific foarte frumos : este parțială deci în dezvolt
 
 ## Corpusul digital inițial
 
-Următoarele pasaje constituie corpusul de pornire. Traducerile sunt prezentate ca traduceri literale ale autorului.
+Următoarele pasaje constituie data de pornire. 
+
+Traducerile sunt prezentate ca traduceri literale ale autorului.
 
 Ieremia 31:31–34: „Iată, **vin zile** și închei un legământ nou cu casa lui Israel și cu casa lui Iuda [...]căci iată legământul pe care îl închei cu casa lui Israel **după aceste zile**: pun legile mele înlăuntrul lor și le scriu pe inima lor [...].”
 
@@ -262,4 +264,4 @@ Fără organizare secvențială, nu este posibilă producerea unor structuri sta
 
 Or, stabilitatea și reproductibilitatea constituie comportamentul așteptat al unui instrument funcțional de măsurare aplicat studiului inteligenței textului.
 
-Întrebarea acestei mici cărți este: dacă toate lucrurile, de azi și cei 134 de ani care urmează trebuie atunci să dispară, către ce trebuie să ne întoarcem în respectul dreptului inalienabil al fiecăruia ?
+Întrebarea acestei mici cărți este: toate lucrurile, de azi și cei 134 de ani care urmează trebuie atunci să dispară, de la ce trebuie să ne întoarcem, în respectul dreptului inalienabil al fiecăruia ?
