@@ -102,10 +102,10 @@ Osea 6:2 afirmă: „El ne face să trăim **în zile**, iar **în ziua a treia*
 
 În Ieremia, cuvântul **zi** apare la plural în expresiile **zile** și **aceste zile**. 
 
-În Osea, expresia **în zile** precedă menționarea **zilei a trei**.
+În Osea, expresia **în zile** precedă menționarea **zilei a treia**.
 ## 1.2 Interpretarea propusă
 
-Se ridică o întrebare: **la câte zile** se referă aici pluralul **zile** ? În succesiunea **în zile**, urmată de**ziua a trei**, pluralul **zile** desemnează **două zile**, deoarece sunt urmate de o **a treia zi**.
+Se ridică o întrebare: **la câte zile** se referă aici pluralul **zile** ? În succesiunea **în zile**, urmată de**ziua a treia**, pluralul **zile** desemnează **două zile**, deoarece sunt urmate de o **a treia zi**.
 
 Este vorba, prin urmare, despre **un total de trei zile**, împărțite în două grupuri: **două zile** și **o zi**.
 
