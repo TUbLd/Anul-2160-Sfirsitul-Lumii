@@ -10,7 +10,9 @@
 
 Această mică carte anunță ființei umane din anul 2026 că istoria sa se va încheia în 2160.
 
-Mai precis, ea afirmă că experiența victoriei umanității asupra stării sale decăzute se va încheia în acel an.
+Mai precis, ea afirmă că experiența victoriei umanității asupra stării sale decăzute 
+
+se va încheia în acel an.
 
 Între 2026 și 2160 mai rămân, prin urmare, 134 de ani.
 
@@ -28,9 +30,9 @@ Argumentarea are ca bază numerele din texte vechi asociate zilelor, lunilor și
 
 Ea se sprijină pe principii vechi dar și actuale potrivit cărora în natură există legi care 
 
-nu se schimbă: timpul, greutatea constantă a Pământului, precum și conservarea masei, energiei 
+nu se schimbă: timpul, greutatea constantă a Pământului, precum și conservarea masei, 
 
-și inteligenței.
+energiei și inteligenței.
 
 În viața umană, nimic nu este aleatoriu, neînsemnat, arbitrar sau chiar brusc; 
 
