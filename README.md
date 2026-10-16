@@ -388,11 +388,13 @@ Această diferență corespunde, prin urmare, generației care le lipsea oamenil
 
 Dar Geneza 6:11 descrie un pământ corupt și plin de violență. Se poate deduce că omenirea 
 
-antediluviană atinsese un grad extrem de violență: o perioadă suplimentară de 30 de ani nu ar 
+antediluviană atinsese un grad extrem de violență: 
 
-fi constituit o șansă reală, ci ar fi prelungit dominația crudă a celor puternici asupra celor 
+o perioadă suplimentară de 30 de ani nu ar fi constituit o șansă reală, 
 
-slabi pe care îi aserviseră complet.
+ci ar fi prelungit dominația crudă a celor puternici asupra celor slabi, 
+
+pe care îi aserviseră complet.
 
 Geneza 7:24 afirmă: „Apele au stăpânit pământul **timp de 150 de zile**.” **Numărul 150** 
 
@@ -406,9 +408,9 @@ apare, prin urmare, încă o dată ca termen al procesului de judecată, în rel
 
 a conduitei și evlavie trebuie să aveți în timp ce așteptați și grăbiți venirea zilei lui 
 
-Dumnezeu, din cauza căreia cerurile aprinse se vor dizolva și elementele înflăcărate se vor 
+Dumnezeu, din cauza căreia cerurile aprinse se vor dizolva 
 
-topi. 
+și elementele înflăcărate se vor topi. 
 
 Dar noi așteptăm, potrivit promisiunii sale, ceruri noi și un pământ nou 
 
@@ -428,9 +430,9 @@ organizații religioase.
 
 Scopul ei este să adreseze o întrebare personală ființei umane însăși și să-i amintească 
 
-aspirația către pace și unitate exprimată, printre multe altele, în cântece ca „Imagine” 
+aspirația către pace și unitate exprimată, printre multe altele, 
 
-și „Simple Man”.
+și în cântece ca „Imagine” și „Simple Man”.
 
 ## AVERTISMENT
 
