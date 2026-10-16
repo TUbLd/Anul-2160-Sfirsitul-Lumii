@@ -170,7 +170,9 @@ Ieremia 29:10: „De îndată ce se împlinesc **cei șaptezeci de ani** pentru 
 
 aducându-vă înapoi în acest loc.”
 
-2 Cronici 36:21: „Pentru ca să se împlinească cuvântul DOMNULUI rostit prin gura lui Ieremia, 
+2 Cronici 36:21: „Pentru ca să se împlinească cuvântul DOMNULUI 
+
+rostit prin gura lui Ieremia, 
 
 țara se bucură de sabatele ei și se odihneste în tot timpul pustiirii sale, 
 
