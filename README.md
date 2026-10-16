@@ -4,7 +4,7 @@
 
 ## Seria 1
 
-## Autor: T Ub Ld
+## Autor: TubLd
 
 # PREFAȚĂ
 
